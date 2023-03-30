@@ -40,7 +40,7 @@ namespace MadGoat.CoreUtil.Editor
 			}
 
 			var style = new GUIStyle(EditorStyles.helpBox);
-			style.padding = new RectOffset(0, 0, 0, 0);
+			style.padding = new RectOffset(4, 4, 4, 4);
 			style.margin = new RectOffset(4, 4, 4, 4);
 
 			// Cache and return
